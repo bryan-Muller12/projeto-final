@@ -26,7 +26,7 @@ const dicas = () => {
       name: "Leite e Derivados",
       content: "Importância do leite e produtos lácteos",
       contentLong:
-        "O leite e os seus derivados fazem parte da lista de alimentos essenciais para o nosso bem-estar. Durante toda a nossa vida, independente da idade, necessitamos da ingestão de alguns nutrientes e, dentre eles, o cálcio é um dos mais importantes. Por isso, o Conquiste sua Vida separou 8 dos melhores derivados do leite para completarem a sua alimentação saudável. Confira! O ser humano é o único mamífero que tem a necessidade de ingerir o leite durante toda a sua vida, isso porque no período da nossa infância, o leite materno é o alimento primordial para o crescimento e desenvolvimento da criança. Ossos e dentes, por exemplo, necessitam da ingestão do cálcio para progredir e permitir a construção de reservas necessárias para o futuro.",
+        "O leite e os seus derivados fazem parte da lista de alimentos essenciais para o nosso bem-estar. Durante toda a nossa vida, independente da idade, necessitamos da ingestão de alguns nutrientes e, dentre eles, o cálcio é um dos mais importantes. Ossos e dentes, por exemplo, necessitam da ingestão do cálcio para progredir e permitir a construção de reservas necessárias para o futuro.",
     },
     {
       img: {

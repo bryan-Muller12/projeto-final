@@ -4,16 +4,17 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
 import "swiper/css";
-import "swiper/css/pagination";
 import "swiper/css/navigation";
 
 // import required modules
-import { Pagination, Navigation } from "swiper";
+import { Navigation } from "swiper";
 
 export default function App() {
   return (
     <>
       <Swiper
+        navigation={true}
+        modules={[Navigation]}
         className="h-[34rem] tablet:h-[36rem] desktop:h-[32rem] justify-center items-center"
         breakpoints={{
           // when window width is >= 640px
