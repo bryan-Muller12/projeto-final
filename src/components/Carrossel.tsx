@@ -44,7 +44,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/renato_cariani/"
-                target={"_blank"}
+                 rel="noreferrer"
               >
                 @Renato Cariani
               </a>
@@ -66,7 +66,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/juliobalestrinoficial/"
-                target={"_blank"}
+                target="_blank" rel="noreferrer"
               >
                 @Julio Balestrin
               </a>
@@ -86,7 +86,7 @@ export default function App() {
               </span>
             </div>
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
-              <a href="https://www.instagram.com/paulomuzy/" target={"_blank"}>
+              <a href="https://www.instagram.com/paulomuzy/" target="_blank" rel="noreferrer">
                 @Paulo Muzy
               </a>
             </button>
@@ -107,7 +107,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/viviwinkler/"
-                target={"_blank"}
+                target={"_blank"} rel="noreferrer" 
               >
                 @Vivi Winkler
               </a>
@@ -129,7 +129,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/ramondinopro/"
-                target={"_blank"}
+                target={"_blank"} rel="noreferrer"
               >
                 @Ramon Dino
               </a>
@@ -151,7 +151,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="Atleta, Bodybuilder e Personal Trainer"
-                target={"_blank"}
+                target={"_blank"} rel="noreferrer"
               >
                 @Leo Stronda
               </a>
@@ -173,7 +173,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/fabiogigapro/"
-                target={"_blank"}
+                target={"_blank"} rel="noreferrer"
               >
                 @Fabio Giga
               </a>
@@ -195,7 +195,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/angelaborgeswellness/"
-                target={"_blank"}
+                target={"_blank"} rel="noreferrer"
               >
                 @Angela Borges
               </a>
@@ -217,7 +217,7 @@ export default function App() {
             <button className="flex items-center justify-center gap-4 w-full py-5 px-8 text-xl text-blue bg-yellow rounded-xl shadow hover:shadow-2xl hover:scale-105 transition-all focus:scale-105 focus:underline ">
               <a
                 href="https://www.instagram.com/carolsaraivafitness/"
-                target={"_blank"}
+                target={"_blank"} rel="noreferrer"
               >
                 @Carol Saraiva
               </a>

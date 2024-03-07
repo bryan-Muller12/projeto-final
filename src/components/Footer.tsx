@@ -8,7 +8,7 @@ const Footer = () => {
       </h2>
       <p>© Todos direitos reservados.</p>
       <div className="flex items-center justify-center gap-3 pb-4">
-        <a href="http://intagram.com/byron.solutions" target={"_blank"}>
+        <a href="http://intagram.com/byron.solutions" target="_blank" rel="noreferrer">
           <picture>
             <img
               className="w-8 tablet:w-16 hover:scale-105 hover:transition-all hover:bg-yellow hover:rounded-full"
@@ -17,7 +17,7 @@ const Footer = () => {
             />
           </picture>
         </a>
-        <a href="http://intagram.com/byron.solutions" target={"_blank"}>
+        <a href="http://intagram.com/byron.solutions" target="_blank" rel="noreferrer">
           <picture>
             <img
               className="w-8 tablet:w-16 hover:scale-105 hover:transition-all hover:bg-yellow hover:rounded-full"
@@ -26,7 +26,7 @@ const Footer = () => {
             />
           </picture>
         </a>
-        <a href="http://intagram.com/byron.solutions" target={"_blank"}>
+        <a href="http://intagram.com/byron.solutions" target="_blank" rel="noreferrer">
           <picture>
             <img
               className="w-8 tablet:w-16 hover:scale-105 hover:transition-all hover:bg-yellow hover:rounded-full"
